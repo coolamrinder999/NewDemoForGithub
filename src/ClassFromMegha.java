@@ -3,7 +3,7 @@ public class ClassFromMegha {
 
     static void go() {
         System.out.println("hello from megha");
-        System.out.println("hello from harpreet");
+        System.out.println("hello from harpreet2");
     }
 
     public static void main(String[] args) {
